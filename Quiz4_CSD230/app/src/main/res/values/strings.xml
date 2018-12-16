@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quiz4_CSD230</string>
+    <string name="edittext_1">Edit Text 1</string>
+    <string name="edittext_2">Edit Text 2</string>
+    <string name="button_1">Button 1</string>
+    <string name="button_2">Button 2</string>
+</resources>

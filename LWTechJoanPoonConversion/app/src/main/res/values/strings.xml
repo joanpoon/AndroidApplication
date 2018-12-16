@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Conversion Calculator</string>
+    <string name="buttonText">Convert</string>
+    <string-array name="conversions_array">
+        <item>yards to meters</item>
+        <item>meters to yards</item>
+        <item>miles to kilometers</item>
+        <item>kilometers to miles</item>
+    </string-array>
+
+</resources>
