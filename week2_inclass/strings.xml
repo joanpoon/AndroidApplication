@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MultiipleActivitesAndIntents</string>
+    <string name="sendTxt">Send Ex</string>
+    <string name="sendTxt2">Send Im</string>
+</resources>
